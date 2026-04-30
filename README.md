@@ -133,3 +133,8 @@ modern dive computer algorithms. Some materials are publicly referenced through 
 Gesellschaft für Tauch- und Überdruckmedizin (GTÜM) - GTÜM is the central scientific and medical society in 
 Germany for diving medicine (Tauchsportmedizin), hyperbaric oxygen therapy (HBO / Überdruckmedizin), research 
 on decompression physiology and safety, training and certification of diving physicians.
+
+
+## Notes
+
+Images generated using AI tools and included for illustrative purposes.
